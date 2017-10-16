@@ -1,61 +1,14 @@
-# Spring Data Fundamentals
+# Spring Data Web Application
 
 ## Acknowledgements
 
-This is a [LEAN**STACKS**](http://www.leanstacks.com) solution.
-
-For more detailed information and instruction about constructing Spring Boot RESTful web services, see the book [Lean Application Engineering Featuring Backbone.Marionette and the Spring Framework](https://leanpub.com/leanstacks-marionette-spring).
-
-LEAN**STACKS** offers several technology instruction video series, publications, and starter projects.  For more information go to [LeanStacks.com](http://www.leanstacks.com/).
-
-## Repository
-
-This repository is a companion for the LEAN**STACKS** YouTube channel playlist entitled [Spring Data Fundamentals](https://www.youtube.com/playlist?list=PLGDwUiT1wr693flGbjtm0WoB_722X6lNc).
-
-### Repository Organization
-
-Each episode of the Spring Data Fundamentals video series has a corresponding branch in this repository.  For example, all of the source code illustrated in the episode entitled [Abstracting Common Transactional Attributes into a Mapped Superclass with Spring Data JPA](https://youtu.be/_s6THdyyfN8?list=PLGDwUiT1wr693flGbjtm0WoB_722X6lNc) may be found on the repository branch named [transactional-entity](https://github.com/mwarman/spring-data-fundamentals/tree/transactional-entity).
-
-### Branches
-
-#### transactional-entity
-
-The branch named `transactional-entity` contains the source code illustrated in the episode [Abstracting Common Transactional Attributes into a Mapped Superclass with Spring Data JPA](https://youtu.be/_s6THdyyfN8?list=PLGDwUiT1wr693flGbjtm0WoB_722X6lNc).
-
-#### reference-entity
-
-The branch named `reference-entity` contains the source code illustrated in the episode [Abstracting Common Reference Data Attributes into a Mapped Superclass with Spring Data JPA](https://youtu.be/xfgwrJmF8nY?list=PLGDwUiT1wr693flGbjtm0WoB_722X6lNc).
-
-#### joda
-
-The branch named `joda` contains the source code illustrated in the episode [Using JODA Framework Classes as JPA Entity Model Attributes with Spring Data JPA](https://youtu.be/OcKtf_-K5cc?list=PLGDwUiT1wr693flGbjtm0WoB_722X6lNc).
-
-#### jpa-query-definition
-
-The branch named `jpa-query-definition` contains the source code illustrated in the episode [Exploring Spring Data JPA Query Definition Strategies](https://youtu.be/S5vZP_03ENY?list=PLGDwUiT1wr693flGbjtm0WoB_722X6lNc).
-
-#### jpa-mysql
-
-The branch named `jpa-mysql` contains the source code illustrated in the episode [Using a MySQL Database with Spring Data JPA](https://youtu.be/wjpeKiTiuRE?list=PLGDwUiT1wr693flGbjtm0WoB_722X6lNc).
-
-#### flyway
-
-The branch named `flyway` contains the source code illustrated in the episode [Using Flyway with Spring Boot for Database Migrations](https://youtu.be/5JUJHHc4KZc?list=PLGDwUiT1wr693flGbjtm0WoB_722X6lNc).
-
-#### liquibase
-
-The branch named `liquibase` contains the source code illustrated in the episode [Using Liquibase with Spring Boot for Database Migrations](https://youtu.be/7VeODrRkHXg?list=PLGDwUiT1wr693flGbjtm0WoB_722X6lNc).
-
+This is adapted from a [LEAN**STACKS**](http://www.leanstacks.com) solution.
 
 ## Languages
 
 This project is authored in Java.
 
 ## Installation
-
-### Fork the Repository
-
-Fork the [Spring Data Fundamentals](https://github.com/mwarman/spring-data-fundamentals) repository on GitHub.  Clone the project to your host machine.
 
 ### Dependencies
 
